@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    /* Enable incremental compilation */
+    "target": "es2017",
+    "module": "commonjs",
+    "strict": false,
+    "allowJs": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true /* Disallow inconsistently-cased references to the same file. */
+  },
+  "include": [
+    "src/**/*.ts"
+  ],
+}
